@@ -10,5 +10,9 @@
   "engines": {
     "node": ">=20"
   },
+  "dependencies": {
+    "@jest/core": "^26.6.3",
+    "micromatch": "^4.0.2"
+  },
   "license": "MIT"
 }
