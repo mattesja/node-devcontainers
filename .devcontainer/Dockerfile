@@ -7,4 +7,6 @@ WORKDIR /workspace
 # Expose the dev server port
 EXPOSE 5000
 
+RUN npm install -g pnpm
+
 USER node
