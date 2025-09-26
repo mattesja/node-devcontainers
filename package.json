@@ -11,7 +11,7 @@
     "node": ">=20"
   },
   "dependencies": {
-    "@jest/core": "^26.6.3",
+    "@jest/core": "^29.7.0",
     "micromatch": "^4.0.2"
   },
   "license": "MIT"
