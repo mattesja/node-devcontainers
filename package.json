@@ -11,8 +11,11 @@
     "node": ">=20"
   },
   "dependencies": {
-    "@jest/core": "^29.7.0",
-    "micromatch": "^4.0.2"
+    "@jest/core": "^24.3.0",
+    "micromatch": "^4.0.2",
+    "@babel/core": "7.27.1",
+    "@babel/compat-data": "7.27.1",
+    "@babel/helper-compilation-targets": "7.27.1"
   },
   "license": "MIT"
 }
