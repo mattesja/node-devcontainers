@@ -14,7 +14,7 @@
     "@jest/core": "^24.3.0",
     "micromatch": "^4.0.2",
     "@babel/core": "7.27.1",
-    "@babel/compat-data": "7.27.1",
+    "@babel/compat-data": "7.28.4",
     "@babel/helper-compilation-targets": "7.27.1"
   },
   "license": "MIT"
